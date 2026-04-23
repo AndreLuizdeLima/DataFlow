@@ -15,7 +15,7 @@ Guia de configuração e execução do projeto.
 ## 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/my-project.git
+git clone https://github.com/AndreLuizdeLima/DataFlow.git
 cd DataFlow
 ```
 
@@ -103,7 +103,7 @@ python loaddata2.py
 ## Estrutura do Projeto
 
 ```
-my-project/
+DataFlow/
 ├── dados/
 │   ├── data_inflow.xlsx    # Tabela de dados 01
 │   └── data_outflows.xlsx  # Tabela de dados 02
