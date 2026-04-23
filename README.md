@@ -1,4 +1,4 @@
-# My Project
+# DataFlow
 
 Guia de configuração e execução do projeto.
 
@@ -16,7 +16,7 @@ Guia de configuração e execução do projeto.
 
 ```bash
 git clone https://github.com/seu-usuario/my-project.git
-cd my-project
+cd DataFlow
 ```
 
 ---
